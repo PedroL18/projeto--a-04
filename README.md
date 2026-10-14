@@ -10,15 +10,15 @@ testar e evoluir o sistema ao longo da disciplina.
 
 ## Objetivo
 
-Descrever aqui o problema que o projeto pretende resolver e seus objetivos.
+O objetivo do projeto é fornecer melhor organização de horários dentro da Fatec, pois nota-se que algumas ocasiões envolvendo horários conflitam com oque está registrado na grade curricular, por isso, visamos a melhor gerenciamento de horários para criar uma rotina acadêmica saudável e organizada.
 
 ## Equipe
 
 | Nome | GitHub | Função |
 |------|--------|--------|
-| Nome do aluno | @usuario | Desenvolvedor |
-| Nome do aluno | @usuario | Desenvolvedor |
-| Nome do aluno | @usuario | Desenvolvedor |
+| Pedro Luis de Freitas Nascimento | @PedroL18 | Desenvolvedor |
+| Fabiana Mieko da Silva | @FabianaMieko | Desenvolvedor |
+| Valdir Dantas Leonardi| @Meninopingado | Desenvolvedor |
 
 ## Tecnologias
 
