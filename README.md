@@ -17,8 +17,8 @@ O objetivo do projeto é fornecer melhor organização de horários dentro da Fa
 | Nome | GitHub | Função |
 |------|--------|--------|
 | Pedro Luis de Freitas Nascimento | @PedroL18 | Desenvolvedor |
-| Fabiana Mieko da Silva | @FabianaMieko | Desenvolvedor |
-| Valdir Dantas Leonardi| @Meninopingado | Desenvolvedor |
+| Fabiana Mieko da Silva | @FabianaMieko | Supervisor |
+| Valdir Dantas Leonardi| @Meninopingado | Secretário |
 
 ## Tecnologias
 
